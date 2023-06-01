@@ -3,7 +3,7 @@ Welcome to my Java Development Projects repository! Explore my personal Java pro
 Project: Customer Relationship Management (CRM)
 
 Description:
-Projext - 1 
+Project - 1 
 Spring-MVC-CRM-CRUDAPP-thymleaf
 
 The Customer Relationship Management (CRM) project is a web application that enables CRUD operations for managing customer information. It was developed using Spring MVC and Thymeleaf as the templating engine. The persistence layer is implemented using Spring Data JPA, providing seamless integration with the underlying database. The project utilized Maven as the build tool for dependency management and Lombok API for reducing boilerplate code. Eclipse IDE was used for development, and the application was deployed and tested on Tomcat server.
